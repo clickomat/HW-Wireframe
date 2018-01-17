@@ -1,0 +1,85 @@
+*{
+    padding:0;
+    margin-left: 4%;
+    margin-right: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    background: #777;
+}
+.Body{
+    
+    width:960px;
+}
+.Header{
+    background: #ebebeb;
+    padding-top:35px;
+    margin-bottom: 10px;
+    text-align: center;
+    height: 60px;
+    
+}
+.Nav{
+    background: #ebebeb;
+    padding-top:35px;
+    margin-bottom: 10px;
+    text-align: center;
+    height: 60px;
+    
+}
+.Section{
+    width: 495px;
+    height: 265px;
+    float: left;
+    text-align: center;
+    background-color: #ebebeb;
+    padding-top: 2em;
+    padding-bottom: 15px;
+    margin: auto;
+}
+.Article{
+    background-color: #777;
+    text-align: center;
+    width: 375px;
+    height: 150px;
+    padding-top: 20px; 
+    padding: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    clear: both;
+}
+.Headers{
+    background-color: #ebebeb;
+    width: 320px;
+    clear: both;
+    margin: 20px;
+    padding:10px;
+}
+.Paragraphs{
+    background-color: #ebebeb;
+    width: 320px;
+    margin: 20px;
+    padding:10px;   
+}
+.Aside{
+    background: #ebebeb;
+    text-align: center;
+    height: 280px;
+    width: 502px;  
+    padding-top: 2em;
+    float: left;
+    margin: auto;
+}
+.Footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    height: 55px;
+    margin-left: 4%;
+    margin-right: 4%;
+    text-align: center;
+    padding-top: 2em;
+    background: #ebebeb;
+    float: bottom;
+}
